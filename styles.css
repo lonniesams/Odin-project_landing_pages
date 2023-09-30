@@ -1,0 +1,121 @@
+.header {
+    background-color: #1f2937;
+    display: flex;
+    width: 100%;
+    height: 60%;
+}
+
+.bar {
+    display: flex;
+    width: 100px;
+    height: 10px;
+}
+
+.logo h2 {
+    padding-left: 70px;
+    color: #f9faf8;;
+}
+
+.a-links ul {
+    display: flex;
+    padding-left: 1000px;
+    list-style-type: none;
+    
+}
+
+.a-links li {
+    padding-left: 60px;
+    text-size-adjust: 23px;
+}
+
+.header-article {
+    display: flex;
+    margin-top: 120px;
+
+}
+
+.header-article-one {
+    margin-top: 60px;
+    color: #e5e7eb;
+}
+
+
+.header-article-two {
+    margin-left: 550px;
+    color: #e5e7eb;
+}
+
+
+.middle-article {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.middle-article figure {
+    height: 90px;
+    width: 90px;
+    border-style: double;
+    display: inline-block;
+}
+
+
+.section-two {
+    background-color: #e5e7eb;
+    height: 255px;
+    width: 100%;
+}
+
+.section-two blockquote {
+
+    padding-top: 51px;
+   margin-left: 500px;
+   color: #1f2937;
+
+}
+
+.section-two p {
+
+    margin-left: 760px;
+    color: #1f2937;
+    
+}
+
+.footer {
+    justify-content: center;
+    width: 100%;
+}
+
+.call-action-box {
+    display: flex;
+    background-color: #3882f6;
+    width: 788px;
+    height: 90px;
+    margin-left: 400px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+
+}
+
+.call-action-box button {
+    width: 55px;
+    height: 55px;
+    margin-left: 290px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    background-color: #3882f6;
+    border-radius: 10px;
+   
+
+}
+
+.call-action-box p {
+    margin-top: 50px;
+}
+
+.call-action-box h2 {
+    padding-left: 30px;
+}
+
+
+
