@@ -1,6 +1,3 @@
-Sure, here's a sample README file you could use for your GitHub repository based on The Odin Project's Foundations Landing Page lesson:
-
----
 
 # Foundations Landing Page - The Odin Project
 
