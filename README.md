@@ -38,6 +38,4 @@ To view this project locally:
 
 Special thanks to [The Odin Project](https://www.theodinproject.com/) for providing the resources and guidance to complete this project.
 
----
 
-Replace the placeholders like `your-live-preview-link.com`, `link-to-screenshot.png`, and other relevant sections with your actual project details. This README serves as a guide for anyone visiting your repository to understand what the project is about, how to use it, and its structure.
