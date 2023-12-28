@@ -7,7 +7,6 @@ This repository contains my solution to The Odin Project's Foundations Landing P
 
 The Foundations Landing Page project is part of [The Odin Project](https://www.theodinproject.com/), aiming to create a simple landing page using HTML and CSS, practicing fundamental concepts such as layout structuring, styling, and positioning.
 
-The live preview of this project can be viewed [here](https://project1.lonniesamsjr.com).
 
 ## Project Structure
 
