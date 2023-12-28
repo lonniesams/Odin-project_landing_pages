@@ -14,7 +14,7 @@ The project structure is organized as follows:
 
 - `index.html`: Main HTML file containing the structure of the landing page.
 - `styles/`: Directory containing CSS stylesheets.
-  - `styles.css`: CSS file for styling the landing page.
+- `styles.css`: CSS file for styling the landing page.
 
 ## Preview
 
