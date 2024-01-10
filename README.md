@@ -24,7 +24,7 @@ NA
 
 To view this project locally:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/repo-name.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/lonniesams/Odin-project_landing_pages.git
 2. Navigate to the project directory.
 3. Open `index.html` in your preferred web browser.
 
